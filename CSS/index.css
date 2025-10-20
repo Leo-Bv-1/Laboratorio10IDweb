@@ -1,0 +1,19 @@
+.main {
+    background: lightgreen;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+.contenedor {
+    display: flex;
+    gap: 12px;
+    background: white;
+}
+.item {
+    flex: 1;
+    background: whitesmoke;
+    padding: 25px;
+    margin: 12px;
+    color: black;
+    border-radius: 12px;
+}

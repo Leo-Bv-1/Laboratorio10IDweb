@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: black;
+    text-align: center;
+    margin: 0;
+    padding: 18px;
+}
+nav a {
+    padding: 18px 20px;
+    color: white;
+    text-decoration: none;
+    transition: 0.2s;
+}
+nav a:hover {
+    background: gray;
+    text-decoration: underline;
+    font-size: 1.1rem;
+}
