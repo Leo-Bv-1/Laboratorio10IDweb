@@ -1,0 +1,23 @@
+.main {
+    padding: 50px;
+}
+main h2 {
+    padding: 10px 0;
+}
+.contenedor {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    align-items: center;
+    background: white;
+}
+.item {
+    text-align: center;
+    flex: 1;
+    background: whitesmoke;
+    width: 20%;
+    padding: 25px;
+    margin: 8px 12px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
