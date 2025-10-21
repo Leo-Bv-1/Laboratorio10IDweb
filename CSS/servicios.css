@@ -1,8 +1,8 @@
 .main {
-    background: lightgreen;
-    color: white;
-    text-align: center;
-    padding: 9%;
+    padding: 50px;
+}
+main h2 {
+    padding: 10px 0;
 }
 .contenedor {
     display: flex;
@@ -14,7 +14,6 @@
     background: whitesmoke;
     padding: 25px;
     margin: 12px;
-    color: black;
     border-radius: 12px;
     margin-bottom: 20px;
 }

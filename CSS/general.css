@@ -19,3 +19,9 @@ nav a:hover {
     text-decoration: underline;
     font-size: 1.1rem;
 }
+footer{
+    background: black;
+    text-align: center;
+    padding: 25px;
+    color: white;
+}
