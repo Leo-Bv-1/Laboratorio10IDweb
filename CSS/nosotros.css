@@ -1,0 +1,22 @@
+.main {
+    padding: 50px;
+}
+main h2 {
+    padding: 10px 0;
+}
+.contenedor {
+    display: flex;
+    gap: 12px;
+    align-items: center;
+    justify-content: center;
+    background: white;
+}
+.item {
+    text-align: center;
+    background: whitesmoke;
+    width: 150px;
+    padding: 12px;
+    margin: 12px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
